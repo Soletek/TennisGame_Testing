@@ -133,10 +133,7 @@ public class TennisGameTest2 {
 		
 		game.player1Scored();
 		game.player2Scored();
-		
-		game.player1Scored();
-		game.player2Scored();
-		
+
 		game.player1Scored();
 
 		//Act
@@ -158,10 +155,7 @@ public class TennisGameTest2 {
 		
 		game.player1Scored();
 		game.player2Scored();
-		
-		game.player1Scored();
-		game.player2Scored();
-		
+
 		game.player2Scored();
 
 		//Act
